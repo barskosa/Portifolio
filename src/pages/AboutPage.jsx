@@ -35,7 +35,7 @@ const skillLinks = {
   postgres: "https://www.postgresql.org/",
   mongodb: "https://www.mongodb.com/",
   git: "https://git-scm.com/",
-  github: "https://github.com/Alvarodocxp",
+  github: "https://github.com/barskosa",
   vscode: "https://code.visualstudio.com/",
 };
 const skills = SKILL_TOOLS.map((skill) => ({

@@ -69,7 +69,7 @@ export default function HomePage({ lang }) {
             </div>
           ) : (
             <img
-              src="https://github.com/Alvarodocxp.png"
+              src="https://github.com/barskosa.png"
               alt="Álvaro Barbosa"
               width="460"
               height="460"

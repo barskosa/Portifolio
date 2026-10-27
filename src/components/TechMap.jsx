@@ -27,7 +27,7 @@ export default function TechMap({ lang = "pt" }) {
     let isMounted = true;
 
     fetch(
-      "https://api.github.com/users/Alvarodocxp/repos?per_page=10&sort=updated",
+      "https://api.github.com/users/barskosa/repos?per_page=10&sort=updated",
     )
       .then((res) => (res.ok ? res.json() : []))
       .then((repos) => {

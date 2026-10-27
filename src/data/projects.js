@@ -15,7 +15,7 @@ export const PROJECTS = [
       en: "An academic interface for sharing film and series recommendations, with a sign-in screen and card feed.",
     },
     technologies: ["HTML5", "CSS3"],
-    repository: "https://github.com/Alvarodocxp/Semana-5-atividade",
+    repository: "https://github.com/barskosa/Semana-5-atividade",
     media: [
       {
         src: "media/cine-login.png",
@@ -56,7 +56,7 @@ export const PROJECTS = [
       "H2",
       "Gradle",
     ],
-    repository: "https://github.com/Alvarodocxp/Semana-2-Diaw",
+    repository: "https://github.com/barskosa/Semana-2-Diaw",
     media: [
       {
         src: "media/auth-login.png",
@@ -86,7 +86,7 @@ export const PROJECTS = [
       en: "A bilingual portfolio with dedicated pages, a responsive layout, a PDF resume and a contact form.",
     },
     technologies: ["React", "Vite", "React Router", "CSS3", "EmailJS"],
-    repository: "https://github.com/Alvarodocxp/Portifolio",
+    repository: "https://github.com/barskosa/Portifolio",
     media: [
       {
         src: "media/portfolio-desktop.png",

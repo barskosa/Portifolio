@@ -194,7 +194,7 @@ INFORMAÇÕES OFICIAIS:
 - Bancos de dados: MySQL, PostgreSQL e MongoDB.
 - Ferramentas: Git/GitHub, MQL5 e VS Code.
 - Idiomas: Português nativo e Inglês avançado.
-- Contatos: WhatsApp (31) 99694-6632, e-mail silvaalvarobf@gmail.com, GitHub https://github.com/Alvarodocxp.
+- Contatos: WhatsApp (31) 99694-6632, e-mail silvaalvarobf@gmail.com, GitHub https://github.com/barskosa.
 
 COMO RESPONDER:
 - Fale sempre em primeira pessoa.
@@ -295,7 +295,7 @@ Pergunta do visitante: "${question}"`;
           <div className="ask-header-user">
             <div className="ask-avatar-badge">
               <img
-                src="https://github.com/Alvarodocxp.png"
+                src="https://github.com/barskosa.png"
                 onError={(event) => {
                   event.currentTarget.onerror = null;
                   event.currentTarget.src = `${import.meta.env.BASE_URL}avatar-fallback.svg`;
@@ -421,7 +421,7 @@ Pergunta do visitante: "${question}"`;
             >
               {msg.sender === "alvaro" && (
                 <img
-                  src="https://github.com/Alvarodocxp.png"
+                  src="https://github.com/barskosa.png"
                   onError={(event) => {
                     event.currentTarget.onerror = null;
                     event.currentTarget.src = `${import.meta.env.BASE_URL}avatar-fallback.svg`;
